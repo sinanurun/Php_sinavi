@@ -1,0 +1,4 @@
+5 adet sayı(isim) barındıran bir dizi tanımlayınız.
+sonrasında bir fonksiyon tanımlayınız. 
+tanımlayacak olduğunuz fonksiyon parametre değeri olarak bu diziyi almalı.
+sonrasında fonksiyon bu dizinin en büyük ve en küçük elemanlarını yazdırmalıdır.
