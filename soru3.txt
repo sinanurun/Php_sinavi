@@ -1,0 +1,7 @@
+
+Kullanıcıdan 4 adet isim (sayı) girmesini istediğiniz bir form tasarlarlayınız.
+forma ayrıca A-Z sırala ve Z-A sırala yazılı iki adet radio button ekleyiniz.
+Kullanıcı gönder butonuna bastığında ekranın alt kısmına yani formun altına 
+seçili radio buttona göre isimleri (sayıları) yazdıran php dosyasını yazınız.
+Not: kullanıcının boş bıraktıı alanlar için sistem kullanıcıya bir uyarı vermeli ve 
+boş olması durumunda hesaplama yapmamalıdır.
