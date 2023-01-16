@@ -1,0 +1,4 @@
+kullanıcıdan doğum yılını ve öğrenim durumunu isteyen bir form tasarlayınız.
+tasarladığınız form dosyasının ad "form.php" olmalıdır. 
+bu dosya aracılığı ie aldığınız verileri "degerlendirme.php" adlı dosyaya yönlendiriniz.
+yönlendirilen bilgileri kontrol ederek, kullanıcının ehliyet alıp alamayacağına dair kullanıcıya bilgilendirme yapınız.
